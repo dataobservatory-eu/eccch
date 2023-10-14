@@ -1,6 +1,14 @@
 ---
 title: "Private Digital Infrastructure, Observatories, and a European Collaborative Cloud for Cultural Heritage"
-format: html
+title-block-banner: "#00348A"
+author:
+  - name: Daniel Antal
+    orcid: 0000-0003-1689-0557
+papersize: A4
+format:
+  html: 
+    toc-depth: 3
+  docx: default
 editor: visual
 ---
 
@@ -14,7 +22,7 @@ In the early decades of digitisation and interconnection, we built institutional
 
 ## Born digital age
 
-Much of our cultural heritage needs to be digitised or cannot be found due to semantic or interoperability barriers. On the other hand, we are entering the third decade when artists are creating the vast majority of cultural objects, new music scores, novels, feature films and series, architecture, and advertising digitally. Culture's physical or temporary forms, like public art, sculpture or theatrical performances, are extensively documented with born-digital text files, photographs and moving images.
+Much of our cultural heritage needs to be digitised or cannot be found due to semantic or interoperability barriers. On the other hand, we are entering the third decade when artists are creating the vast majority of cultural objects, new music scores, novels, feature films and series, architecture, and advertising digitally. Culture's physical or temporary forms, like public art, sculpture, or theatrical performances, are extensively documented with born-digital text files, photographs and moving images.
 
 We foresee that any new acquisitions into collections will be increasingly digital. If an artist at the end of his active career or the heirs want to preserve the body of work and manuscripts for future research and preservation, composers, writers, photographers will increasingly leave behind Midi files, digital sound recordings, Word processor text files, digital photographs in various raw and processed formats, and not tapes, negatives, written sheets, hand- or typewritten original texts.
 
