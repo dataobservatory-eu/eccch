@@ -1,0 +1,32 @@
+---
+title: "Private Digital Infrastructure, Observatories, and a European Collaborative Cloud for Cultural Heritage"
+format: html
+editor: visual
+---
+
+## Lack of institutional coordination
+
+The digitisation of the enjoyment of culture, then the cultural production, and eventually the way cultural heritage is preserved and made accessible became primarily digital over a very short period, mainly between 1995-2023. The same time brought unprecedented connectivity via the opening of the world wide web in 1991-1993, and the slow uptake of the web of data, or the semantic web, since 1999 -- where cultural heritage organisations have played the most crucial role.
+
+In the early phases of building our digital infrastructure, people could not imagine and foresee how audiences would enjoy digital culture, form their new habits, or what kind of innovation would form them. For example, when Apple's revolutionary mp3 player came to the market, the late David Bowie prophetically foresaw that access to music would be like access to water. Twenty years later, with digital streaming technologies, Spotify, Apple, Deezer and countless other providers provide subscription access to almost the entire global music repertoire. Any European citizen can have a more extensive catalogue at home than a public broadcaster used to have twenty years ago. The quickly decreasing costs of digitisation and increased connectivity due to exponential bandwidth and semantic connection growth brought unimaginable use cases and earlier unforeseen risks.
+
+In the early decades of digitisation and interconnection, we built institutional and infrastructure solutions that could be more optimal for the demands of 2023. The European Union itself finances many parallel digital infrastructures and solutions. And we see an almost absent coordination between private and public digital infrastructure, which leads to underutilisation of investment and unnecessary cost.
+
+## Born digital age
+
+Much of our cultural heritage needs to be digitised or cannot be found due to semantic or interoperability barriers. On the other hand, we are entering the third decade when artists are creating the vast majority of cultural objects, new music scores, novels, feature films and series, architecture, and advertising digitally. Culture's physical or temporary forms, like public art, sculpture or theatrical performances, are extensively documented with born-digital text files, photographs and moving images.
+
+We foresee that any new acquisitions into collections will be increasingly digital. If an artist at the end of his active career or the heirs want to preserve the body of work and manuscripts for future research and preservation, composers, writers, photographers will increasingly leave behind Midi files, digital sound recordings, Word processor text files, digital photographs in various raw and processed formats, and not tapes, negatives, written sheets, hand- or typewritten original texts.
+
+## Private and Public Infrastructure
+
+The division of current and heritage culture is artificial and unnecessary. While archives and digital heritage collections have too little music or film \-- Europeana does not even have a proper music aggregator \-- , almost all music works created by humanity are available in several digital formats on several commercially financed digital infrastructures. With much help from the Creative Europe programme, much of our film and cinema infrastructure was turned digital in Europe.
+
+Our pilot program in Slovakia aims to connect local music libraries, the public music information centre as a cultural heritage body, and collective rights management organisations, record labels and music publishers into a semantically well-connected space and even serve the needs of cultural policy with the connection of the state statistical data program with privately-held, high quality and timely data on music and film. In an era where almost all uses of a music work can be traced in near real-time since birth, it is a luxury to keep music libraries and heritage organisations detached from the digital streaming infrastructure, collective and individual rights management, and cultural policy institutions.
+
+Also, it would be unnecessary to build an expensive digital heritage infrastructure to display music in an era when almost all is available on well-maintained private infrastructure like Deezer, Spotify, and YouTube, which even offer legally free access for enjoyment. Collect sample surveys for cultural statistics among record labels when all their activities are administered digitally. Or invest heavily into metadata attribution commercially when music heritage organisations invest in high-quality metadata financed from the taxes paid by the commercial players.
+
+## No Music In the European Collaborative Cloud for Cultural Heritage
+
+The "Report on a European collaborative cloud for cultural heritage: Ex -- ante impact assessment" doesn't mention music, only talks about recorded sound, for example, for increasing the enjoyability of immersive technologies (VR/AR/XR). The *Europeana Sounds* project ran from February 2014 to January 2017. Although Europeana Sounds, based at the British Library, continues to be an aggregator for audio and audio-related material for Europeana, a quick search for recorded music in Europeana [Music Art/activity of creating art using sound](https://www.europeana.eu/en/collections/topic/62-music?page=1&qf=TYPE%3A%22SOUND%22), brings up only 14,252 hits. For comparison, CISAC's global database holds information with pristine metadata about 52 million music works identified with the ISO 15707:2001 standard International Standard Work Code. CISAC is the world's largest network in the creative sector, with 225 societies in 116 countries. To make another comparison: 
+in 2022, 213,000 artist, new creators, performers of authentic folk or classical music, and many others made *at least ten* new recordings available, resulting on a growth of more than 2 million available music recordings. More music becomes available digitally on a day than the entire body of music that can be found in Europeana.
